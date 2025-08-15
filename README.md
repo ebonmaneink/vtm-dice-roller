@@ -14,7 +14,7 @@ _Crafted with passion by **Ebonmane Ink Creative Studios** - where code meets cr
 
 ## 🌟 **Live Demo**
 
-**[Try the V5 Dice Roller →](https://your-demo-link-here.com)**
+**[Try the V5 Dice Roller →](https://ebonmaneink.github.io/vtm-dice-roller/)**
 
 _Experience the thematic, responsive design and smooth mobile interactions firsthand._
 
@@ -31,7 +31,6 @@ _Experience the thematic, responsive design and smooth mobile interactions first
 - [⚡ Performance Features](#-performance-features)
 - [🔧 Installation & Setup](#-installation--setup)
 - [🧪 Browser Compatibility](#-browser-compatibility)
-- [📈 Future Enhancements](#-future-enhancements)
 - [👨‍💻 About the Developer](#-about-the-developer)
 - [🤝 Hire Ebonmane Ink](#-hire-ebonmane-ink)
 
